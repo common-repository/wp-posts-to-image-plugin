@@ -1,0 +1,119 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-posts-to-image-plugin\n"
+"POT-Creation-Date: 2010-07-10 20:00+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.php:133
+msgid "Posts to Image Options"
+msgstr ""
+
+#: main.php:139
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: main.php:152 main.php:246
+msgid "Images"
+msgstr ""
+
+#: main.php:152 main.php:246
+msgid "Links"
+msgstr ""
+
+#: main.php:167
+msgid ""
+"Unable to complete initialization.<br>Please make writable and readable the "
+"following directory:"
+msgstr ""
+
+#: main.php:170
+msgid "Example:"
+msgstr ""
+
+#: main.php:176
+msgid "Post Count"
+msgstr ""
+
+#: main.php:185
+msgid "Select font:"
+msgstr ""
+
+#: main.php:185
+msgid "(You can upload your own .ttf's to the \"fonts\" folder)"
+msgstr ""
+
+#: main.php:202
+msgid "Select Font Size"
+msgstr ""
+
+#: main.php:213
+msgid "Font Colors:"
+msgstr ""
+
+#: main.php:213 main.php:226
+msgid "All of the colors must be RGB"
+msgstr ""
+
+#: main.php:223 main.php:228
+msgid "Red"
+msgstr ""
+
+#: main.php:224 main.php:229
+msgid "Green"
+msgstr ""
+
+#: main.php:224 main.php:225 main.php:228 main.php:229 main.php:230
+msgid "(between 0-255)"
+msgstr ""
+
+#: main.php:225 main.php:230
+msgid "Blue"
+msgstr ""
+
+#: main.php:226
+msgid "Background Colors:"
+msgstr ""
+
+#: main.php:227
+msgid "Transparency:"
+msgstr ""
+
+#: main.php:231
+msgid "Enable creating .htaccess"
+msgstr ""
+
+#: main.php:231
+msgid ""
+"Adds \"Expires:\" header to images via .htaccess.<br/> Use the option with "
+"Apache webserver."
+msgstr ""
+
+#: main.php:234
+msgid "Save and Create Images"
+msgstr ""
+
+#: main.php:238
+msgid "Shorten Links"
+msgstr ""
+
+#: main.php:246
+msgid "Preview"
+msgstr ""
+
+#: main.php:373
+msgid ""
+"<strong>Error:</strong> Your current WP Posts to Image plugin doesn't have "
+"any images and/or can't write the plugin directory - Please reconfigure it."
+msgstr ""

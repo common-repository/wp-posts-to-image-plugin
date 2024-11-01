@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Posts to Image v0.5.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-06-30 19:01+0000\n"
+"Last-Translator: lian <lian00@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: main.php:133
+#@ wp-posts-to-image-plugin
+msgid "Posts to Image Options"
+msgstr "Options de Posts to Image"
+
+#: main.php:139
+#@ wp-posts-to-image-plugin
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les autorisations nécessaires pour accéder à cette page."
+
+#: main.php:152
+#: main.php:245
+#@ wp-posts-to-image-plugin
+msgid "Images"
+msgstr ""
+
+#: main.php:152
+#: main.php:245
+#@ wp-posts-to-image-plugin
+msgid "Links"
+msgstr "Liens"
+
+#: main.php:167
+#@ wp-posts-to-image-plugin
+msgid "Unable to complete initialization.<br>Please make writable and readable the following directory:"
+msgstr "Impossible de compléter l'initialisation.<br>Veuillez modifier les permissions du répertoire suivant afin de pouvoir le rendre ouvert en lecture et en écriture: "
+
+#: main.php:170
+#@ wp-posts-to-image-plugin
+msgid "Example:"
+msgstr "Exemple: "
+
+#: main.php:176
+#@ wp-posts-to-image-plugin
+msgid "Post Count"
+msgstr "Nombre de billets "
+
+#: main.php:185
+#@ wp-posts-to-image-plugin
+msgid "Select font:"
+msgstr "Sélectionner la police de caractère: "
+
+#: main.php:185
+#@ wp-posts-to-image-plugin
+msgid "(You can upload your own .ttf's to the \"fonts\" folder)"
+msgstr "(vous pouvez uploader vos propres .ttf dans le répertoire \"fonts\")"
+
+#: main.php:202
+#@ wp-posts-to-image-plugin
+msgid "Select Font Size"
+msgstr "Choisir la taille de police "
+
+#: main.php:213
+#@ wp-posts-to-image-plugin
+msgid "Font Colors:"
+msgstr "Couleur de police: "
+
+#: main.php:213
+#: main.php:226
+#@ wp-posts-to-image-plugin
+msgid "All of the colors must be RGB"
+msgstr "Toutes les couleurs doivent être en code RGB "
+
+#: main.php:223
+#: main.php:228
+#@ wp-posts-to-image-plugin
+msgid "Red"
+msgstr "Rouge "
+
+#: main.php:224
+#: main.php:229
+#@ wp-posts-to-image-plugin
+msgid "Green"
+msgstr "Vert "
+
+#: main.php:224
+#: main.php:225
+#: main.php:228
+#: main.php:229
+#: main.php:230
+#@ wp-posts-to-image-plugin
+msgid "(between 0-255)"
+msgstr "(entre 0-255)"
+
+#: main.php:225
+#: main.php:230
+#@ wp-posts-to-image-plugin
+msgid "Blue"
+msgstr "Bleu "
+
+#: main.php:226
+#@ wp-posts-to-image-plugin
+msgid "Background Colors:"
+msgstr "Couleur du fond: "
+
+#: main.php:227
+#@ wp-posts-to-image-plugin
+msgid "Transparency:"
+msgstr "Transparence: "
+
+#: main.php:233
+#@ wp-posts-to-image-plugin
+msgid "Save and Create Images"
+msgstr "Sauvegarder et créer les images "
+
+#: main.php:237
+#@ wp-posts-to-image-plugin
+msgid "Shorten Links"
+msgstr "Raccourcir les liens "
+
+#: main.php:245
+#@ wp-posts-to-image-plugin
+msgid "Preview"
+msgstr ""
+
+#: main.php:352
+#@ wp-posts-to-image-plugin
+msgid "<strong>Error:</strong> Your current WP Posts to Image plugin doesn't have any images and/or can't write the plugin directory - Please reconfigure it."
+msgstr "<strong>Erreur:</strong> votre version actuelle de WP Posts to Image ne trouve pas d'image et/ou n'a pas l'autorisation d'écrire dans le répertoire du plugin - Veuillez le reconfigurer svp ."
+
